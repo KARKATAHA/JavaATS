@@ -1,0 +1,4 @@
+Days	Year	Period1	Period2	Period3	period4	Period5	Period6	Period7	
+Tuesday	3A	 	Java	 	 	Lab	Lab	Lab	
+ 	 	 	Java	 	 	Lab	Lab	Lab	
+ 	 	 	3A	 	 	3A	3A	3A	

@@ -1,0 +1,5 @@
+/home/amrish/Code/java_lab/TimeTable/timeslots.csv
+/home/amrish/Code/java_lab/TimeTable/courses.csv
+/home/amrish/Code/java_lab/TimeTable/instructors.csv
+/home/amrish/Code/java_lab/TimeTable/sections.csv
+/home/amrish/Code/java_lab/TimeTable/rooms.csv

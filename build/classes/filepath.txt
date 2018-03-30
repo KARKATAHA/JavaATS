@@ -1,0 +1,5 @@
+E:\Downloads\timeslots.csv
+E:\Downloads\courses.csv
+E:\Downloads\instructors.csv
+E:\Downloads\sections.csv
+E:\Downloads\rooms.csv

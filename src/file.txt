@@ -1,0 +1,4 @@
+Days	Year	Section	Period1	Period2	Period3	period4	Period5	Period6	Period7	
+Tuesday	3	A	a	b	c	d	e	f	g	
+			A	B	C	D	E	F	G	
+			1	2	3	4	5	6	7	
